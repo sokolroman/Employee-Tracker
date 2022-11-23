@@ -175,3 +175,31 @@ function  addEmployee() {
       init()
     })})
 }
+function  updateEmployeeRole() 
+{
+  connection.query("select * from employee", (req,res) => {
+    inquirer.prompt([
+      {
+        type:"list",
+        name:"employee",
+        message:"Who is your employee?",
+        choices: res.map(employee => employee.id)
+      },
+    ])
+    .then(employeeData => {
+      connection.query("select * from role", (req2,res2) => {
+        inquirer.prompt([
+          {
+            type:"list",
+            name:"role_title",
+            message:"What role would you like to assign to your employee?",
+            choices: res2.map(role => role.id)
+          },
+        ])
+        .then(roleData => {
+          connection.query("update employee set role_id = ? where id = ?", [roleData.role_title, employeeData.employee],(req3,res3) => {
+          })
+          init()
+        })})
+    })})
+  }
