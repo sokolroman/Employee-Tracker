@@ -7,7 +7,7 @@ Command-line application to manage a company's employee database, using Node.js,
 
 ## Preview
 
-  ![screenshot 1](/assets/imgs/s1.png)
+  ![screenshot 1](s1.png)
 
 ## License
 
@@ -18,7 +18,7 @@ Command-line application to manage a company's employee database, using Node.js,
 [GITHUB REPO](https://github.com/sokolroman/Employee-Tracker)
 
 #video
-[![Watch the video](employeevideo.mp4)
+[![Watch the video](employeetracker.mp4)
 
   
 
