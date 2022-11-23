@@ -17,7 +17,7 @@ Command-line application to manage a company's employee database, using Node.js,
 
 [GITHUB REPO](https://github.com/sokolroman/Employee-Tracker)
 
-Click [here](quora.com/profile/Ashish-Kulkarni-100](https://github.com/sokolroman/Employee-Tracker](https://1drv.ms/v/s!AnaG2finThsyhgkYytvO_4Pw6YUc?e=WWCy2m)) to go to watch video.
+Click [here](https://1drv.ms/v/s!AnaG2finThsyhgkYytvO_4Pw6YUc?e=WWCy2m)) to go to watch video.
 
 ## User Story
 
