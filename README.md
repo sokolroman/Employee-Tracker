@@ -16,9 +16,7 @@ Command-line application to manage a company's employee database, using Node.js,
 # Links
 
 [GITHUB REPO](https://github.com/sokolroman/Employee-Tracker)
-
-#video
-https://1drv.ms/v/s!AnaG2finThsyhgkYytvO_4Pw6YUc?e=WWCy2m
+[Video]([https://github.com/sokolroman/Employee-Tracker](https://1drv.ms/v/s!AnaG2finThsyhgkYytvO_4Pw6YUc?e=WWCy2m)
 
 ## User Story
 
@@ -49,7 +47,6 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 ```
-
 
 ---
 Roman Sokol
