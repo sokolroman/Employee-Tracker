@@ -13,10 +13,14 @@ Command-line application to manage a company's employee database, using Node.js,
 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
-# Links
+#repo 
 
-![GITHUB REPO](https://github.com/sokolroman/Employee-Tracker)
-![Video]([https://github.com/sokolroman/Employee-Tracker](https://1drv.ms/v/s!AnaG2finThsyhgkYytvO_4Pw6YUc?e=WWCy2m)
+[GITHUB REPO](https://github.com/sokolroman/Employee-Tracker)
+
+#video
+
+[Video]([https://github.com/sokolroman/Employee-Tracker](https://1drv.ms/v/s!AnaG2finThsyhgkYytvO_4Pw6YUc?e=WWCy2m)
+
 
 ## User Story
 
