@@ -7,8 +7,7 @@ Command-line application to manage a company's employee database, using Node.js,
 
 ## Preview
 
-  ![screenshot 1](/assets/imgs/S1.png)
-  ![screenshot 2](/assets/imgs/S2.png)
+  ![screenshot 1](/assets/imgs/s1.png)
 
 ## License
 
