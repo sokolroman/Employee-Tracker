@@ -1,13 +1,12 @@
-# Employee-Tracker
-content management system (CMS)
+# Employee Tracker
 
 ## Description
 
-Command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+A command-line application that allows users to manage a company's employee database using Node.js, Inquirer, and MySQL.
 
 ## Preview
 
-  ![screenshot 1](s1.png)
+![screenshot 1](s1.png)
 
 ## License
 
@@ -15,17 +14,12 @@ Command-line application to manage a company's employee database, using Node.js,
 
 ## Links
 
-[GITHUB REPO](https://github.com/sokolroman/Employee-Tracker)
-
-Click [here](https://1drv.ms/v/s!AnaG2finThsyhgkYytvO_4Pw6YUc?e=WWCy2m) to go to watch video.
+- [GitHub Repo](https://github.com/sokolroman/Employee-Tracker)
+- [Watch Video](https://1drv.ms/v/s!AnaG2finThsyhgkYytvO_4Pw6YUc?e=WWCy2m)
 
 ## User Story
 
-```
-AS A business owner
-I WANT to be able to view and manage the departments, roles, and employees in my company
-SO THAT I can organize and plan my business
-```
+As a business owner, I want to be able to view and manage the departments, roles, and employees in my company so that I can organize and plan my business.
 
 ## Acceptance Criteria
 
